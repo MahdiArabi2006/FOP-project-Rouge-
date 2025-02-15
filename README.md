@@ -1,2 +1,2 @@
 # FOP-project-Rouge-
-images/1.jpg
+images/1.png
