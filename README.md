@@ -1,2 +1,3 @@
 # FOP-project-Rouge-
-images/1.png
+![menu](3.png)
+![game](4.png)
